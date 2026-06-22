@@ -14,34 +14,6 @@
     "charCount": 68
   },
   {
-    "id": "617748fd-94ab-4f34-a52d-62bbad275794",
-    "title": "Default Notebook Note",
-    "content": "Piped note using default notebook!",
-    "tags": [],
-    "category": "My Default Notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:32:23.061Z",
-    "updatedAt": "2026-06-22T13:32:23.061Z",
-    "wordCount": 5,
-    "charCount": 34
-  },
-  {
-    "id": "5a223db1-c2c5-44de-9dc3-3f939f57c0af",
-    "title": "Overridden Note",
-    "content": "Piped note overriding default notebook!",
-    "tags": [],
-    "category": "Special Override",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:32:38.586Z",
-    "updatedAt": "2026-06-22T13:32:38.586Z",
-    "wordCount": 5,
-    "charCount": 39
-  },
-  {
     "id": "a27816ab-c109-4310-ade8-23b2dbc27769",
     "title": "skuydgc vuykfdsegvlyigerdsly bgglieu",
     "content": "skuydgc vuykfdsegvlyigerdsly bgglieu",
