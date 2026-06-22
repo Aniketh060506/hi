@@ -14,34 +14,6 @@
     "charCount": 68
   },
   {
-    "id": "57ca32e2-e61e-4578-abd2-4a9de1f5330e",
-    "title": "Clipboard Note - 2026-06-22 19_20_15",
-    "content": "This is copy text for instant clipboard save testing!",
-    "tags": [],
-    "category": "notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:50:15.448Z",
-    "updatedAt": "2026-06-22T13:50:15.448Z",
-    "wordCount": 9,
-    "charCount": 53
-  },
-  {
-    "id": "a5293642-fdb1-418d-80a1-0d787f2b247b",
-    "title": "Piped Note - 2026-06-22 19_20_20",
-    "content": "Piped content with instant default title!",
-    "tags": [],
-    "category": "notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:50:20.232Z",
-    "updatedAt": "2026-06-22T13:50:20.232Z",
-    "wordCount": 6,
-    "charCount": 41
-  },
-  {
     "id": "57620c75-50fb-47a7-b0ab-1f71daced54b",
     "title": "idea",
     "content": "when i copy in terminal just ctrl c auto paste in default clip",
