@@ -14,34 +14,6 @@
     "charCount": 68
   },
   {
-    "id": "e01503b0-1dca-466f-a9fa-aadfa05070ba",
-    "title": "Clipboard Note",
-    "content": "n\r\n  Your configuration settings are stored at:\r\n    ~/.saveinme/config.json\r\n  Backup or copy these files anytime to transfer your notes to another machine!\r\n  ================================================================================",
-    "tags": [],
-    "category": "notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:47:11.770Z",
-    "updatedAt": "2026-06-22T13:47:11.770Z",
-    "wordCount": 22,
-    "charCount": 241
-  },
-  {
-    "id": "d4040005-c8af-4955-99c6-50342bd8ae7a",
-    "title": "wiydshgcdhcdwksdjevbcifdefv",
-    "content": "wiydshgcdhcdwksdjevbcifdefv",
-    "tags": [],
-    "category": "notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:48:34.705Z",
-    "updatedAt": "2026-06-22T13:48:34.705Z",
-    "wordCount": 1,
-    "charCount": 27
-  },
-  {
     "id": "57ca32e2-e61e-4578-abd2-4a9de1f5330e",
     "title": "Clipboard Note - 2026-06-22 19_20_15",
     "content": "This is copy text for instant clipboard save testing!",
