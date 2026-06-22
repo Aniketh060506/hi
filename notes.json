@@ -42,34 +42,6 @@
     "charCount": 3767
   },
   {
-    "id": "dde96f5d-3893-44ea-af50-4e2b775a5ff8",
-    "title": "Clipboard Note - 2026-06-22 23_06_03",
-    "content": "================================================================================\r\n  ??  COMMANDS CHEAT SHEET (QUICK OVERVIEW)\r\n  ================================================================================\r\n    * Note: You can use \"saveinme\" or the shortcut \"sim\" interchangeably *\r\n\r\n  sim                         List all saved notes (pinned first)\r\n  sim -c [title]             Create/edit a note interactively\r\n  sim -cl [title]            Instantly save text from your clipboard\r\n  sim -t [notebook]          Set default target notebook (folder)\r\n  sim -v <title>             View a note's full content\r\n  sim -d <title>             Delete a note permanently\r\n  sim -p <title>             Toggle pin status (stays at top)\r\n  sim -f <term>              Search title, content, category, or tags\r\n  sim --path                 Show database folder path on disk\r\n  sim -h                     Show this detailed help manual\r\n\r\n  ================================================================================\r\n  ??  DETAILED EXPLANATIONS & EXAMPLES\r\n  ================================================================================\r\n\r\n  1. Creating and Editing Notes\r\n    ? Running sim -c starts the interactive editor. You'll be asked for:\r\n      - Title\r\n      - Content (write line-by-line. Type :save on a new line to finish)\r\n      - Details (optional: tags, priority, pin status)\r\n\r\n    Example (Create):\r\n      $ sim -c\r\n    Example (Directly create/edit by title):\r\n      $ sim -c \"My Todo List\"\r\n\r\n  2. Clipboard Notes\r\n    ? Automatically copies your clipboard text and saves it instantly with zero prompts.\r\n      - Target: Default target notebook, unless overridden with -n.\r\n      - Title: Uses custom title if provided, otherwise defaults to:\r\n        Clipboard Note - YYYY-MM-DD HH_MM_SS\r\n\r\n    Example (Save clipboard instantly):\r\n      $ sim -cl\r\n    Example (Save clipboard with custom title):\r\n      $ sim -cl \"important log snippet\"\r\n\r\n  3. Default Target Notebooks\r\n    ? Targets allow you to automatically group notes by category (like folder routing).\r\n      - Set active notebook target:   sim -t \"<name>\"\r\n      - View current active target:   sim -t\r\n      - Clear target default:         sim -t --clear\r\n\r\n    Example (Set target to \"Work\"):\r\n      $ sim -t \"Work\"\r\n      $ sim -c \"meeting summary\"   ? Automatically saved inside notebook \"Work\"\r\n    Example (Override target for single command using -n):\r\n      $ sim -c \"groceries\" -n \"Personal\"  ? Bypasses default target, saves to \"Personal\"\r\n\r\n  4. Piping Command Outputs (Advanced)\r\n    ? Pipe stdout of any command directly into a note. Saves instantly with zero prompts!\r\n      - Target: Default target notebook, unless overridden with -n.\r\n      - Title: Uses custom title if provided, otherwise defaults to:\r\n        Piped Note - YYYY-MM-DD HH_MM_SS\r\n\r\n    Example (Save curl/wget responses instantly):\r\n      $ curl https://api.github.com/zen | sim -c \"Zen Quote\" -n \"Inspiration\"\r\n    Example (Save tail/history list instantly):\r\n      $ history | tail -n 15 | sim -c\r\n    Example (Log grep search queries instantly):\r\n      $ grep -rn \"TODO\" src/ | sim -c \"Project TODOs\"\r\n\r\n  ================================================================================\r\n  ??  IN-TERMINAL EDITOR COMMANDS\r\n  ================================================================================\r\n  While typing multi-line text inside the terminal editor, type these on a new line:\r\n    :save      Save changes and exit\r\n    :cancel    Discard all changes\r\n    :keep      Keep existing note text unchanged (only when editing)\r\n\r\n  ================================================================================\r\n  ??  BACKUP & LOCAL DATABASE\r\n  ================================================================================\r\n  Your database JSON files are stored permanently under:\r\n    Notes database:    ~/.saveinme/notes.json\r\n    Config settings:   ~/.saveinme/config.json\r\n  ================================================================================\r\n\r\nPS C:\\>",
-    "tags": [],
-    "category": "notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T17:36:03.929Z",
-    "updatedAt": "2026-06-22T17:36:03.929Z",
-    "wordCount": 450,
-    "charCount": 4050
-  },
-  {
-    "id": "f71ca0b1-7734-4bdf-a427-4f966cf724b3",
-    "title": "Clipboard Note - 2026-06-23 00_04_10",
-    "content": "https://www.youtube.com/watch?v=J1WwNKDdDC0",
-    "tags": [],
-    "category": "notebook",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T18:34:10.852Z",
-    "updatedAt": "2026-06-22T18:34:10.852Z",
-    "wordCount": 1,
-    "charCount": 43
-  },
-  {
     "id": "b67bd59e-da1b-43e6-b62a-44b73611d229",
     "title": "Piped Note - 2026-06-23 00_05_42",
     "content": "EFedwfcw",
