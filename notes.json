@@ -14,20 +14,6 @@
     "charCount": 68
   },
   {
-    "id": "a27816ab-c109-4310-ade8-23b2dbc27769",
-    "title": "skuydgc vuykfdsegvlyigerdsly bgglieu",
-    "content": "skuydgc vuykfdsegvlyigerdsly bgglieu",
-    "tags": [],
-    "category": "",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:43:35.668Z",
-    "updatedAt": "2026-06-22T13:43:35.668Z",
-    "wordCount": 3,
-    "charCount": 36
-  },
-  {
     "id": "e01503b0-1dca-466f-a9fa-aadfa05070ba",
     "title": "Clipboard Note",
     "content": "n\r\n  Your configuration settings are stored at:\r\n    ~/.saveinme/config.json\r\n  Backup or copy these files anytime to transfer your notes to another machine!\r\n  ================================================================================",
