@@ -14,20 +14,6 @@
     "charCount": 68
   },
   {
-    "id": "5af1d5c7-cb17-486a-9369-7599bd57e1ab",
-    "title": "notebook",
-    "content": "hszdbgcv\nsodbv\noufsdbgv\nousdbg\nvoujdfbg\nvfdnsgb\nisftnd\ngboin\nstfdihnb\nstfnbh\nsdfnb",
-    "tags": [],
-    "category": "",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:06:10.474Z",
-    "updatedAt": "2026-06-22T13:06:10.474Z",
-    "wordCount": 11,
-    "charCount": 82
-  },
-  {
     "id": "fcc28d04-4ee5-4c98-95bc-f4d3d03afe21",
     "title": "My Piped Note",
     "content": "This is content from a piped command!",
