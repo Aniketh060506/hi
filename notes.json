@@ -14,20 +14,6 @@
     "charCount": 68
   },
   {
-    "id": "fcc28d04-4ee5-4c98-95bc-f4d3d03afe21",
-    "title": "My Piped Note",
-    "content": "This is content from a piped command!",
-    "tags": [],
-    "category": "Testing",
-    "priority": "medium",
-    "pinned": false,
-    "color": "",
-    "createdAt": "2026-06-22T13:31:34.191Z",
-    "updatedAt": "2026-06-22T13:31:34.191Z",
-    "wordCount": 7,
-    "charCount": 37
-  },
-  {
     "id": "617748fd-94ab-4f34-a52d-62bbad275794",
     "title": "Default Notebook Note",
     "content": "Piped note using default notebook!",
